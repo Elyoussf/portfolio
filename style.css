@@ -1,0 +1,96 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1327483291/vector/digital-network-connection-abstract-background-artificial-intelligence-and-engineering.jpg?s=612x612&w=0&k=20&c=PQmMcCfXmTKCR-mC10atdHXlTUR4YwQbW0A9nUQodk0=);
+}
+
+.linkdin{
+    width: 2em;
+    height: 2em;
+}
+.twitter{
+    width: 2em;
+    height: 2em;
+}
+.upwork{
+    width: 2em;
+    height: 2em;
+}
+
+.other_stuff{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Finger Paint', cursive;
+font-family: 'Phudu', cursive;
+font-family: 'Qwitcher Grypen', cursive;
+font-family: 'Shadows Into Light', cursive;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(86, 91, 99, 0.75);
+    border-radius: 10px;
+    transition: 1s;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+}
+.projects{
+    font-size:x-large;
+    color: rgb(224, 130, 43);
+    text-decoration: none;
+}
+.Education{
+    font-size:x-large;
+    color: rgb(224, 130, 43);
+    text-decoration: none;
+}
+.why{
+    font-size:x-large;
+    color: rgb(224, 130, 43);
+    text-decoration: none;
+}
+.soft{
+    font-size:x-large;
+    color: rgb(224, 130, 43);
+    text-decoration: none;
+}
+.greeting{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3em;
+    background-color: rgba(189, 201, 222,0.90);
+    border-radius: 10px;
+    width: max-content;
+    padding-left: 5em;
+    padding-right: 3em;
+    margin-top: 1%;
+}
+.profile{
+    margin-top: 3%;
+    height: 20em;
+    border-radius: 100%;
+}
+main{
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.pro_cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    border-radius: 10px;
+    color: white;
+
+}
+p{
+    font-size: x-large;
+    font-family: 'Shadows Into Light', cursive;
+}

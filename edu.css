@@ -1,0 +1,91 @@
+body{
+    background-color: black;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: xx-large;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
+.one{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
+.two{
+    background-color: rgb(255, 165, 0);
+    color: black;
+}
+.three{
+    background-color: rgb(255, 255, 0);
+    color: black;
+}
+.four{
+    background-color: rgb(0, 128, 0);
+    color: white;
+}
+.five{
+    background-color: rgb(0, 0, 255);
+    color: white;
+}
+.six{
+    background-color: rgb(75, 0, 130);
+    color: white;
+}
+#one{
+    display:none;
+    border: 10px;
+    background-color: rgb(149, 156, 151);
+    font-family: 'Phudu', cursive;
+    font-size: x-large;
+}
+#two{
+    display:none;
+    border: 10px;
+    background-color: rgb(149, 156, 151);
+    font-family: 'Phudu', cursive;
+    font-size: x-large;
+}
+#three{
+    display: none;
+    border: 10px;
+    background-color: rgb(149, 156, 151);
+    font-family: 'Phudu', cursive;
+    font-size: x-large;
+}
+#four{
+    display: none;
+    border: 10px;
+    background-color: rgb(149, 156, 151);
+    font-family: 'Phudu', cursive;
+    font-size: x-large;
+}
+#five{
+    display: none;
+    border: 10px;
+    background-color: rgb(149, 156, 151);
+    font-family: 'Phudu', cursive;
+    font-size: x-large;
+}
+#six{
+    border: 10px;
+    background-color: rgb(149, 156, 151);
+    font-family: 'Phudu', cursive;
+    font-size: x-large;
+    display: none;
+
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+h1:hover{
+    text-shadow: 4px 4px 4px 4px gold;
+}
